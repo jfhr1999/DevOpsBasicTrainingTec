@@ -1,4 +1,6 @@
 //tell jenkins this is a pipeline
+//Jose Fabio Hidalgo Rodriguez 2017100950
+//https://github.com/jfhr1999/DevOpsBasicTrainingTec
 pipeline {
  
     //Determine in which node will the pipeline be executed
